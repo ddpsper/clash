@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,guzzoni.apple.com
-DOMAIN-SUFFIX,gdmf.apple.com
-DOMAIN-SUFFIX,guzzoni.smoot.apple.com
-DOMAIN-SUFFIX,ios.chat.openai.com
-DOMAIN-SUFFIX,mask-api.icloud.com
-DOMAIN-SUFFIX,probe.icloud.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,guzzoni.smoot.apple.com
+DOMAIN,ios.chat.openai.com
+DOMAIN,mask-api.icloud.com
+DOMAIN,probe.icloud.com

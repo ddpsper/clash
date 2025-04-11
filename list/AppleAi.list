@@ -1,8 +1,8 @@
-DOMAIN,apple-relay.cloudflare.com
-DOMAIN,apple-relay.apple.com
-DOMAIN,guzzoni.apple.com
-DOMAIN,gdmf.apple.com
-DOMAIN,guzzoni.smoot.apple.com
-DOMAIN,ios.chat.openai.com
-DOMAIN,mask-api.icloud.com
-DOMAIN,probe.icloud.com
+DOMAIN,apple-relay.cloudflare.com,Apple_intelligence
+DOMAIN,apple-relay.apple.com,Apple_intelligence
+DOMAIN,guzzoni.apple.com,Apple_intelligence
+DOMAIN,gdmf.apple.com,Apple_intelligence
+DOMAIN,guzzoni.smoot.apple.com,Apple_intelligence
+DOMAIN,ios.chat.openai.com,Apple_intelligence
+DOMAIN,mask-api.icloud.com,Apple_intelligence
+DOMAIN,probe.icloud.com,Apple_intelligence

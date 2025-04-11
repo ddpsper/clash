@@ -5,5 +5,5 @@
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 # 分流中加上这两条规则就可以绑定自己的 OpenAI 帐号
-DOMAIN-SUFFIX,http://apple-relay.cloudflare.com,AI // Added for: http://apple-relay.cloudflare.com
-DOMAIN-SUFFIX,http://apple-relay.apple.com,AI // Added for: http://apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com

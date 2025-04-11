@@ -2,8 +2,10 @@ DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.apple.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,gdmf.apple.com
+DOMAIN,app-site-association.cdn-apple.com
 DOMAIN,guzzoni.smoot.apple.com
 DOMAIN,ios.chat.openai.com
 DOMAIN,mask-api.icloud.com
 DOMAIN,api.icloud.com
 DOMAIN,probe.icloud.com
+DOMAIN,mask-api.icloud.com

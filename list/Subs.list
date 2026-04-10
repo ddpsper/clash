@@ -1,0 +1,16 @@
+# 机场订阅和面板域名
+# 确保 Sub2Store 和客户端可以通过代理拉取订阅
+
+# 亏本机场
+DOMAIN-SUFFIX,knjc.cfd
+
+# cobo626 / 西部世界
+DOMAIN-SUFFIX,xb1821.com
+DOMAIN-SUFFIX,cobo626.com
+
+# mojie.app (魔戒)
+DOMAIN-SUFFIX,mojie.app
+IP-CIDR,47.242.128.61/32,no-resolve
+
+# suosuo (直接订阅)
+DOMAIN-SUFFIX,suosuo.de

@@ -19,10 +19,5 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,js.stripe.com
 
-# 自有中转
-DOMAIN-SUFFIX,crs.51789.sbs
-DOMAIN-SUFFIX,claude-api.51789.sbs
-DOMAIN-SUFFIX,openai-api.51789.sbs
-
-# 测试
+# IP 泄露测试
 DOMAIN-SUFFIX,browserleaks.com

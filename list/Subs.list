@@ -14,3 +14,9 @@ IP-CIDR,47.242.128.61/32,no-resolve
 
 # suosuo (直接订阅)
 DOMAIN-SUFFIX,suosuo.de
+
+# GitHub 代理/原始内容（Sub2Store 脚本下载）
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com

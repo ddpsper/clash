@@ -15,8 +15,8 @@ IP-CIDR,47.242.128.61/32,no-resolve
 # suosuo (直接订阅)
 DOMAIN-SUFFIX,suosuo.de
 
-# 自有基础设施（CRS/Sub2Store/Sub2Converter）
-DOMAIN-SUFFIX,51789.sbs
+# 自有中转（仅 CRS 走代理，其余 *.51789.sbs 直连）
+DOMAIN,crs.51789.sbs
 
 # GitHub 代理/原始内容（Sub2Store 脚本下载）
 DOMAIN-SUFFIX,gh-proxy.com

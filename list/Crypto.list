@@ -1,0 +1,36 @@
+# 加密货币交易所 — 走非受限地区节点（避免美国/新加坡/中国大陆）
+
+# Bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitapi.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN,bybit.ada.support
+
+# Binance
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,bnbstatic.com
+
+# OKX
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okcoin.com
+DOMAIN-SUFFIX,oklink.com
+
+# CoinCola
+DOMAIN-SUFFIX,coincola.com
+DOMAIN-SUFFIX,coincolacdn.com
+DOMAIN-SUFFIX,colaotc.com
+
+# 通用
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,tradingview.com
